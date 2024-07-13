@@ -22,18 +22,27 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
 
+Salve o mundo...
+
 ## 📒 Descrição
 Breve descrição do seu projeto
 
+Criar imagens de pessoas salvando o mundo... Essas imagens são motivadoras
+
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+[Liste as IAs Generativas e outras ferramentas usadas]
+
+(https://www.bing.com/images/create?cc=br)
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
+No Bing você solicita que a IA crie imagens motivadoras inspirando pessoas melhorando a qualidade de vida delas e do planeta.....
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
-
+https://www.bing.com/images/create/crie-imagens-de-pessoas-ajudando-o-planeta-terra/1-669281aa27d74dde8c3e6d023b6a9025?id=VKUP4prqKBUP85h6Pr4R%2bQ%3d%3d&view=detailv2&idpp=genimg&thId=OIG4.dYw..ZTj.O0Fl.RU8Yqe&FORM=GCRIDP&mode=overlay
+https://www.bing.com/images/create/crie-imagens-de-pessoas-ajudando-o-planeta-terra/1-669281aa27d74dde8c3e6d023b6a9025?id=VKUP4prqKBUP85h6Pr4R%2bQ%3d%3d&view=detailv2&idpp=genimg&thId=OIG4.dYw..ZTj.O0Fl.RU8Yqe&FORM=GCRIDP&mode=overlay
+https://www.bing.com/images/create/crie-imagens-de-pessoas-ajudando-o-planeta-terra/1-669281aa27d74dde8c3e6d023b6a9025?id=VKUP4prqKBUP85h6Pr4R%2bQ%3d%3d&view=detailv2&idpp=genimg&thId=OIG4.dYw..ZTj.O0Fl.RU8Yqe&FORM=GCRIDP&mode=overlay
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
