@@ -40,6 +40,8 @@ No Bing você solicita que a IA crie imagens motivadoras inspirando pessoas melh
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
+![image](https://github.com/user-attachments/assets/d90a266d-4152-46a7-918c-b6e76f369ca5)
+
 https://www.bing.com/images/create/crie-imagens-de-pessoas-ajudando-o-planeta-terra/1-669281aa27d74dde8c3e6d023b6a9025?id=VKUP4prqKBUP85h6Pr4R%2bQ%3d%3d&view=detailv2&idpp=genimg&thId=OIG4.dYw..ZTj.O0Fl.RU8Yqe&FORM=GCRIDP&mode=overlay
 https://www.bing.com/images/create/crie-imagens-de-pessoas-ajudando-o-planeta-terra/1-669281aa27d74dde8c3e6d023b6a9025?id=VKUP4prqKBUP85h6Pr4R%2bQ%3d%3d&view=detailv2&idpp=genimg&thId=OIG4.dYw..ZTj.O0Fl.RU8Yqe&FORM=GCRIDP&mode=overlay
 https://www.bing.com/images/create/crie-imagens-de-pessoas-ajudando-o-planeta-terra/1-669281aa27d74dde8c3e6d023b6a9025?id=VKUP4prqKBUP85h6Pr4R%2bQ%3d%3d&view=detailv2&idpp=genimg&thId=OIG4.dYw..ZTj.O0Fl.RU8Yqe&FORM=GCRIDP&mode=overlay
